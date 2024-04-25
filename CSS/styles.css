@@ -1,3 +1,11 @@
 
 /*Importing the base elements*/
-@import './base/reset.css';
+@import "./base/reset.css";
+
+/*Importing the abstracts elements*/
+@import "./components/";
+
+/*Importing the components elements*/
+
+/*Importing the common pages of the code*/
+@import "./pages/fiverdiscover.css";
