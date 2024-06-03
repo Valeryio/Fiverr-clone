@@ -1,0 +1,33 @@
+
+:root
+{
+
+/*----------------COLOR VARIABLES------------------*/
+  --clr-primary-green: #1DBF73;
+  --clr-secondary-green: ;
+  --clr-primary-red: #CD2029;
+  --clr-primary-blue: #0D77B7;
+
+  --clr-secondary-blue: #429CD6;
+
+  --clr-neutral-dark: #424242;
+  --clr-neutral-white: ;
+  --clr-neutral-light-gray: #62646A;
+
+
+
+/*----------------FONT VARIABLES------------------*/
+  --ff-normal: "Montserrat", "sans serif";
+
+
+  --fs-h1-36: 36px;
+
+  --fs-p12: 12px;
+  --fs-p13: 13px;
+  --fs-p14: 14px;
+  --fs-p16: 16px;
+  --fs-p20: 20px;
+
+
+  --fw-bold: bold;
+}

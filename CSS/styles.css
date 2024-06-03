@@ -1,11 +1,21 @@
 
 /*Importing the base elements*/
 @import "./base/reset.css";
+@import "./base/typo.css";
+
 
 /*Importing the abstracts elements*/
-@import "./components/";
+@import "./abstract/variables.css";
+
 
 /*Importing the components elements*/
+@import "./components/button.css";
+@import "./components/product_card.css";
+
+
+/*Importing the layout elements*/
+@import "./layout/header_discover.css";
+
 
 /*Importing the common pages of the code*/
 @import "./pages/fiverdiscover.css";
