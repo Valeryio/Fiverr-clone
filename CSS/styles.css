@@ -10,6 +10,7 @@
 
 /*Importing the components elements*/
 @import "./components/button.css";
+@import "./components/class_utilities.css";
 @import "./components/product_card.css";
 
 

@@ -1,0 +1,15 @@
+
+.discover-header
+{
+    display: flex;
+    justify-content: space-between;
+    padding: var(--block-padding) var(--inline-padding);
+    border: 1px solid black;
+}
+
+.discover-header__navlist
+{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}

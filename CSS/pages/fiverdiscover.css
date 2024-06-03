@@ -1,0 +1,10 @@
+:root
+{
+    --inline-padding: 2rem;
+    --block-padding: 1rem;
+}
+
+body
+{
+    font-family: var(--ff-normal);
+}
