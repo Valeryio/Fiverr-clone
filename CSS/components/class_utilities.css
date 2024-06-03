@@ -20,3 +20,19 @@ a:active
 {
   color: var(--clr-primary-green)
 }
+
+
+/*-----------Styling data-link links states----------*/
+a[data-link="shop"]
+{
+    background: url(../../assets/icons/arrow_to_right.svg);
+    background-repeat: no-repeat;
+    background-size: 24px 24px;
+    padding-left: 2rem;
+}
+
+a[data-link="shop"]:hover
+{
+    background: url(../../assets/icons/arrow_to_right_green.svg);
+    background-repeat: no-repeat;
+}
