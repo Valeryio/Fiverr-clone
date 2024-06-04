@@ -1,5 +1,6 @@
 
 /*Importing the base elements*/
+@import "./base/base.css";
 @import "./base/reset.css";
 @import "./base/typo.css";
 

@@ -1,0 +1,40 @@
+
+/*Styling links default states*/
+
+a
+{
+  font-weight: var(--fw-regular);
+  text-decoration: none;
+}
+
+a:link
+{
+  color: var(--clr-neutral-dark)
+}
+
+a:visited
+{
+  color: var(--clr-neutral-dark)
+}
+
+a:hover,
+a:active
+{
+  color: var(--clr-primary-green)
+}
+
+
+/*-----------Styling data-link links states----------*/
+a[data-link="shop"]
+{
+  background: url(../../assets/icons/arrow_to_right.svg);
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  padding-left: 2rem;
+}
+
+a[data-link="shop"]:hover
+{
+  background: url(../../assets/icons/arrow_to_right_green.svg);
+  background-repeat: no-repeat;
+}
